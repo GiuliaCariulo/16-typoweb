@@ -1,6 +1,51 @@
+@font-face {
+  font-family: 'Adobe Caslon Pro';
+  src: url(../fonts/adobe-caslon-pro/adobecaslonpro-regular.woff2);
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Adobe Caslon Pro';
+  src: url(../fonts/adobe-caslon-pro/adobecaslonpro-italic.woff2);
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Adobe Caslon Pro';
+  src: url(../fonts/adobe-caslon-pro/adobecaslonpro-semibold.woff2);
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: 'Adobe Caslon Pro';
+  src: url(../fonts/adobe-caslon-pro/adobecaslonpro-semibolditalic.woff2);
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Adobe Caslon Pro';
+  src: url(../fonts/adobe-caslon-pro/adobecaslonpro-bold.woff2);
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'Adobe Caslon Pro';
+  src: url(../fonts/adobe-caslon-pro/adobecaslonpro-bolditalic.woff2);
+  font-weight: 700;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Bell Centennial Std';
+  src: url(../fonts/bell-centennial-std/bellcentennialstd-address.woff2);
+  font-weight: 400;
+}
+
 body {
   scroll-behavior: smooth;
   background-image: url(../img/greenandpurple-flow-8.webp);
+  color: white;
 }
 
 header {
