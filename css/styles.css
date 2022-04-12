@@ -62,3 +62,20 @@ main {
 footer {
   background-color: #ffffff7d;
 }
+
+h1 {
+  font-family: 'Bell Centennial Std';
+  font-size: 30px;
+}
+
+h2 {
+  font-family: 'Bell Centennial Std';
+  font-size: 25px;
+  color: #00FF00;
+}
+
+h3 {
+  font-family: 'Bell Centennial Std';
+  font-size: 20px;
+  color: #6857A0;
+}
