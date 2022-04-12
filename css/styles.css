@@ -45,15 +45,18 @@
 body {
   scroll-behavior: smooth;
   background-image: url(../img/greenandpurple-flow-8.webp);
+  font-family: 'Adobe Caslon Pro';
+  font-size: 20px;
+  font-weight: 400;
   color: white;
 }
 
 header {
-  background-color: #000000ad;
+  background-color: #0000008c;
 }
 
 main {
-  background-color: #000000ad;
+  background-color: #0000008c;
 }
 
 footer {
