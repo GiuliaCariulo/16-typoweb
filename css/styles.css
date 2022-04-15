@@ -105,4 +105,17 @@ p {
   font-size: 40px;
   font-weight: 600;
   color: #00FF00;
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+}
+
+.legend {
+  font-size: 12px;
+  font-style: italic;
+  align-self: flex-end;
+}
+
+.quote p {
+  margin: 0;
 }
