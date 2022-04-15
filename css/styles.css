@@ -101,6 +101,9 @@ p {
   height: 243px;
 }
 
+.intro {
+  margin-bottom: 80px;
+}
 .quote {
   font-size: 40px;
   font-weight: 600;
@@ -118,4 +121,12 @@ p {
 
 .quote p {
   margin: 0;
+}
+
+.overview-test {
+  margin-bottom: 80px;
+}
+
+.caracter-map {
+  margin-bottom: 80px;
 }
