@@ -90,6 +90,15 @@ p {
   word-break: keep-all;
 }
 
+textarea {
+  background: #6857A0;
+  color: #00FF00;
+  padding: 1px;
+  border-radius: 5px;
+  border: 2px solid transparent;
+  outline: none;
+}
+
 table {
   width: 100%;
 }
@@ -137,15 +146,6 @@ table td {
 
 .overview-test p {
   font-size: 17px;;
-}
-
-textarea {
-  background: #6857A0;
-  color: #00FF00;
-  padding: 1px;
-  border-radius: 5px;
-  border: 2px solid transparent;
-  outline: none;
 }
 
 .style-regular {
