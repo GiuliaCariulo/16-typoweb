@@ -62,6 +62,7 @@ header {
 main {
   background-color: #0000008c;
   padding: 30px;
+  margin-bottom: 7px;
 }
 
 footer {
@@ -105,6 +106,16 @@ table {
 
 table td {
   text-align: center;
+}
+
+footer p {
+  font-size: 14px;
+  font-family: 'Bell Centennial Std';
+  color: #6857A0;
+}
+
+footer img{
+height: 30px;
 }
 
 .preview {
@@ -173,4 +184,12 @@ table td {
 .style-bold-italic {
   font-weight: 700;
   font-style: italic;
+}
+
+.element .arrow-top {
+  display: flex;
+  flex-direction: row;
+  align-content: flex-end;
+  align-items: center;
+  flex-wrap: nowrap;
 }
