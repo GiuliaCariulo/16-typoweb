@@ -127,6 +127,32 @@ p {
   margin-bottom: 80px;
 }
 
-.caracter-map {
-  margin-bottom: 80px;
+.overview-test p {
+  font-size: 17px;
+}
+
+.style-regular {
+  font-weight: 400;
+}
+
+.style-italic {
+  font-style: italic;
+}
+
+.style-semibold {
+  font-weight: 600;
+}
+
+.style-semibold-italic {
+  font-weight: 600;
+  font-style: italic;
+}
+
+.style-bold {
+  font-weight: 700;
+}
+
+.style-bold-italic {
+  font-weight: 700;
+  font-style: italic;
 }
