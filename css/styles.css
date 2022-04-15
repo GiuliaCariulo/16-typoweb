@@ -128,7 +128,16 @@ p {
 }
 
 .overview-test p {
-  font-size: 17px;
+  font-size: 17px;;
+}
+
+textarea {
+  background: #6857A0;
+  color: #00FF00;
+  padding: 1px;
+  border-radius: 5px;
+  border: 2px solid transparent;
+  outline: none;
 }
 
 .style-regular {
@@ -136,6 +145,7 @@ p {
 }
 
 .style-italic {
+  font-weight: 400;
   font-style: italic;
 }
 
