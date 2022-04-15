@@ -49,10 +49,14 @@ body {
   font-size: 20px;
   font-weight: 400;
   color: white;
+  padding: 7px;
+  margin: auto;
 }
 
 header {
   background-color: #0000008c;
+  padding: 55px 30px;
+  margin-bottom: 7px;
 }
 
 main {
@@ -66,6 +70,7 @@ footer {
 h1 {
   font-family: 'Bell Centennial Std';
   font-size: 30px;
+  margin: 0;
 }
 
 h2 {
