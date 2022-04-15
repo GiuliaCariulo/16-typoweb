@@ -90,6 +90,14 @@ p {
   word-break: keep-all;
 }
 
+table {
+  width: 100%;
+}
+
+table td {
+  text-align: center;
+}
+
 .preview {
   display: flex;
   flex-direction: column;
