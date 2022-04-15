@@ -92,12 +92,17 @@ p {
 }
 
 textarea {
-  background: #6857A0;
+  background: #6857a048;
   color: #00FF00;
+  width: 100%;
   padding: 1px;
   border-radius: 5px;
   border: 2px solid transparent;
   outline: none;
+}
+
+::placeholder {
+  color: #ffffff;
 }
 
 table {
