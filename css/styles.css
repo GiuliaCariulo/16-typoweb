@@ -61,6 +61,7 @@ header {
 
 main {
   background-color: #0000008c;
+  padding: 30px;
 }
 
 footer {
@@ -83,6 +84,10 @@ h3 {
   font-family: 'Bell Centennial Std';
   font-size: 20px;
   color: #6857A0;
+}
+
+p {
+  word-break: keep-all;
 }
 
 .preview {
