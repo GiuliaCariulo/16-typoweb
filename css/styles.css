@@ -186,10 +186,18 @@ height: 30px;
   font-style: italic;
 }
 
-.element .arrow-top {
+.arrow-top {
   display: flex;
   flex-direction: row;
-  align-content: flex-end;
   align-items: center;
-  flex-wrap: nowrap;
+  align-content: space-around;
+}
+
+.element-impressum {
+  flex-grow: 1;
+  text-align: center;
+}
+
+.element-top-button {
+  padding: 10px;
 }
